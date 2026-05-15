@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Smallest Subsequence of Distinct Characters
+Basic Calculator
 
 ---
 
