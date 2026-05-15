@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-242-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-244-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-151-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-84-yellow)
+![Medium](https://img.shields.io/badge/Medium-85-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-7-red)
+![Hard](https://img.shields.io/badge/Hard-8-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Online Stock Span
+Remove K Digits
 
 ---
 
