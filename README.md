@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-246-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-247-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-151-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-87-yellow)
+![Medium](https://img.shields.io/badge/Medium-88-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Remove Duplicate Letters
+Decode String
 
 ---
 
