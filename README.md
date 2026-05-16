@@ -28,7 +28,9 @@ Path Sum III
 
 ![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
-![Basic](https://img.shields.io/badge/Basic-undefined-lightgrey)
+![School](https://img.shields.io/badge/School-0-lightblue)
+
+![Basic](https://img.shields.io/badge/Basic-0-lightgrey)
 
 ![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
