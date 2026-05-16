@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-254-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-255-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-156-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-90-yellow)
+![Medium](https://img.shields.io/badge/Medium-91-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Subtree of Another Tree
+Path Sum II
 
 ---
 
