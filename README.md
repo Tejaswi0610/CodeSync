@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Balanced Binary Tree
+Same Tree
 
 ---
 
