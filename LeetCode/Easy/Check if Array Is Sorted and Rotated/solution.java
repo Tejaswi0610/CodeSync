@@ -9,5 +9,6 @@ class Solution {
         }
         if(c<=1)
           return true;
+        return false;
     }
 }
