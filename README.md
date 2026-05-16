@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-249-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-250-blue)
 
-![Easy](https://img.shields.io/badge/Easy-151-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-152-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-90-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find Minimum in Rotated Sorted Array
+Minimum Depth of Binary Tree
 
 ---
 
