@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-252-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-253-blue)
 
-![Easy](https://img.shields.io/badge/Easy-154-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-155-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-90-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Path Sum
+Invert Binary Tree
 
 ---
 
