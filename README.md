@@ -42,7 +42,7 @@ Invert Binary Tree
 
 ## 🔥 Latest GFG Problem
 
-None
+Sum Tree | Practice | GeeksforGeeks
 
 ---
 
