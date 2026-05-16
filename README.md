@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Subtree of Another Tree
+Invert Binary Tree
 
 ---
 
