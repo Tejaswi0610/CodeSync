@@ -7,6 +7,7 @@ class Solution {
                 c++;
             }
         }
-        if(c<=1) return true;
+        if(c<=1)
+          return true;
     }
 }
