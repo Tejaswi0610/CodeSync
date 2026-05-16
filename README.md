@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Invert Binary Tree
+Check if Array Is Sorted and Rotated
 
 ---
 
