@@ -42,7 +42,7 @@ Invert Binary Tree
 
 ## 🔥 Latest GFG Problem
 
-Sum Tree | Practice | GeeksforGeeks
+Min and Max in Array | Practice | GeeksforGeeks
 
 ---
 
