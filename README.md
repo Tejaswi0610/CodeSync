@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-253-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-254-blue)
 
-![Easy](https://img.shields.io/badge/Easy-155-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-156-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-90-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Invert Binary Tree
+Subtree of Another Tree
 
 ---
 
