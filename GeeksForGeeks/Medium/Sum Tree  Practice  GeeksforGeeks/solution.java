@@ -28,7 +28,6 @@ class Solution {
     }
     
     boolean isSumTree(Node root) {
-        
         return sum(root)!=-1;
     }
 }
