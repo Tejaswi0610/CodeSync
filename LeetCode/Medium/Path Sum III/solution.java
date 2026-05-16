@@ -14,18 +14,18 @@
  * }
  */
 class Solution {
-    int c=0;
+    int cnt=0;
     public int pathSum(TreeNode root, int targetSum) {
         if(root==null) return 0;
         dfs(root,targetSum);
         pathSum(root.left,targetSum);
         pathSum(root.right,targetSum);
-        return c;
+        return cnt;
     }
     public void dfs(TreeNode root,long targetSum){
         if(root==null) return;
         if(root.val==targetSum)
-           c++;
+           cnt++;
         dfs(root.left,targetSum-root.val);
         dfs(root.right,targetSum-root.val);
     }
