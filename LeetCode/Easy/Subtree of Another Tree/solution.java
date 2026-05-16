@@ -25,3 +25,5 @@ class Solution {
         return isSameTree(root,subRoot) || isSubtree(root.left,subRoot)|| isSubtree(root.right,subRoot);
     }
 }
+// it is not optimal
+// time complexity is :O(n*2);
