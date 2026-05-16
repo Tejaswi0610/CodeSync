@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-250-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-251-blue)
 
-![Easy](https://img.shields.io/badge/Easy-152-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-153-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-90-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Depth of Binary Tree
+Balanced Binary Tree
 
 ---
 
