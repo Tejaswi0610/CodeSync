@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Root Equals Sum of Children
+Univalued Binary Tree
 
 ---
 
