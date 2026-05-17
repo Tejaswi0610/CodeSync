@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Symmetric Tree
+Root Equals Sum of Children
 
 ---
 
