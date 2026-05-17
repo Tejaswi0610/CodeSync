@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Path Sum II
+Invert Binary Tree
 
 ---
 
