@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Maximum Width of Binary Tree
+Vertical Order Traversal of a Binary Tree
 
 ---
 
