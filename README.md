@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-262-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-263-blue)
 
-![Easy](https://img.shields.io/badge/Easy-157-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-158-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-95-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Delete Node in a BST
+Range Sum of BST
 
 ---
 
