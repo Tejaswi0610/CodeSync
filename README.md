@@ -26,7 +26,7 @@ Vertical Order Traversal of a Binary Tree
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-undefined-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
