@@ -26,15 +26,15 @@ Vertical Order Traversal of a Binary Tree
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-88-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-71-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
-![Basic](https://img.shields.io/badge/Basic-32-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-14-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-43-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-28-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-13-yellow)
+![Medium](https://img.shields.io/badge/Medium-29-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
@@ -42,7 +42,7 @@ Vertical Order Traversal of a Binary Tree
 
 ## 🔥 Latest GFG Problem
 
-Reverse an Array | Practice | GeeksforGeeks
+Count Subarrays with given XOR | Practice | GeeksforGeeks
 
 ---
 
