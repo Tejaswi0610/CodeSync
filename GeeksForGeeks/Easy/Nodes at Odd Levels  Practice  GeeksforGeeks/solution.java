@@ -17,8 +17,11 @@ class Solution {
         que.add(root);
         int level=1;
         while(!que.isEmpty()){
+            
             int n=que.size();
+            
             ArrayList<Integer> al=new ArrayList<>();
+            
             for(int i=0;i<n;i++){
                 Node cur=que.poll();
                 if(cur.left!=null){
