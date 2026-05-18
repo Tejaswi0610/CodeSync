@@ -23,7 +23,7 @@ class Solution {
         }
     }
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        List<List<Integer>> result=new ArrayList<List<List<Integer>>();
+        List<List<Integer>> result=new ArrayList<>();
         List<Node> list = new ArrayList<Node>();
         dfs(root,list,0,0);
         Collections.sort(list,(a,b)->{
