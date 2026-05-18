@@ -15,6 +15,7 @@ class Solution {
         Queue<Node> que=new LinkedList<>();
         
         que.add(root);
+        
         int level=1;
         while(!que.isEmpty()){
             int n=que.size();
@@ -33,6 +34,7 @@ class Solution {
                     res.add(cur.data);
                 }
             }
+            
             level++;
         }
         
