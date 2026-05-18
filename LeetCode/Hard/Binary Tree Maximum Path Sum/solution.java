@@ -19,12 +19,16 @@ class Solution {
         dfs(root);
         return maxSum;
     }
+
     public int dfs(TreeNode root){
-        if(root==null) return 0;
+        if(root==null) 
+           return 0;
         int left=Math.max(0,dfs(root.left));
         int right=Math.max(0,dfs(root.right));
+
         int sum=left+root.val+right;
         maxSum=Math.max(maxSum,sum);
-        return root.val+Math.max(left.right);
+        
+        return root.val+Math.max(left,right);
     }
 }
