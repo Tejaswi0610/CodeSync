@@ -22,6 +22,7 @@ class Solution {
             this.val=val;
         }
     }
+
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<List<Integer>> result=new ArrayList<>();
         List<Node> list = new ArrayList<Node>();
@@ -44,6 +45,7 @@ class Solution {
         }
        return result;
     }
+    
     public void dfs(TreeNode root,List<Node> list,int row,int col){
         if(root==null) return;
         list.add (new Node(row,col,root.val));
