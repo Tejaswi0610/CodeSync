@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Univalued Binary Tree
+Binary Tree Maximum Path Sum
 
 ---
 
