@@ -26,15 +26,15 @@ Vertical Order Traversal of a Binary Tree
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-88-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
-![Basic](https://img.shields.io/badge/Basic-0-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-32-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-43-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-0-yellow)
+![Medium](https://img.shields.io/badge/Medium-13-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
