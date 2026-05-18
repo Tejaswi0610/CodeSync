@@ -17,7 +17,6 @@ class Solution {
         que.add(root);
         int level=1;
         while(!que.isEmpty()){
-            
             int n=que.size();
             
             ArrayList<Integer> al=new ArrayList<>();
@@ -34,7 +33,6 @@ class Solution {
                     res.add(cur.data);
                 }
             }
-            
             level++;
         }
         
