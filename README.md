@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-260-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-261-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-157-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-93-yellow)
+![Medium](https://img.shields.io/badge/Medium-94-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-10-red)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Vertical Order Traversal of a Binary Tree
+Lowest Common Ancestor of a Binary Tree
 
 ---
 
