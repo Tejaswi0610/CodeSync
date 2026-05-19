@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Implement Trie (Prefix Tree)
+Construct Binary Tree from Preorder and Inorder Traversal
 
 ---
 
