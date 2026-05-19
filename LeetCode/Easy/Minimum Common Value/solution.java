@@ -8,6 +8,6 @@ class Solution {
                 }
             }
         }
-        return ans;
+        return -1;
     }
 }
