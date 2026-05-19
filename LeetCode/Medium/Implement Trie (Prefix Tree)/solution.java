@@ -14,9 +14,9 @@ class Trie {
     public void insert(String word) {
         TrieNode curr=root;
         for(char ch:word.toCharArray()){
-            if(curr.children[ch-'a']==null)
-                curr.children[ch-'a']=new TrieNode();
-            curr=curr.children[ch-'a'];
+            if(curr.children[ch - 'a']==null)
+                curr.children[ch - 'a']=new TrieNode();
+            curr=curr.children[ch - 'a'];
         }
         curr.isEnd=true;
     }
