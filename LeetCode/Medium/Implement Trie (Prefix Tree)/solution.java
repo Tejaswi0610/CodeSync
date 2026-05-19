@@ -1,10 +1,12 @@
 class Trie {
     TrieNode root;
-    TrieNode[] childern;
-    boolean isEnd;
-    TrieNode(){
-        childern=new TrieNode[26];
-        isEnd=false;
+    class TrieNode{
+        TrieNode[] childern;
+        boolean isEnd;
+        TrieNode(){
+            childern=new TrieNode[26];
+            isEnd=false;
+        }
     }
     public Trie() {
         root = new TrieNode();
