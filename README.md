@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Range Sum of BST
+Minimum Absolute Difference in BST
 
 ---
 
