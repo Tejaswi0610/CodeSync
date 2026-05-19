@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Absolute Difference in BST
+Minimum Common Value
 
 ---
 
