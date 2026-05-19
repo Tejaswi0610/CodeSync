@@ -15,7 +15,16 @@
  */
 class Solution {
     public int getMinimumDifference(TreeNode root) {
-        if(root==null) return 0;
-        return 1;
+        inOrder(root);
+        return minDiff; 
+    }
+    public void inOrder(TreeNode root){
+        if(root==null)  return;
+        inOrder(root.left,prev);
+        if(prev!=null){
+            minDiff=Math.min(minDiff,root.val-prev.val);
+        }
+        prev=root;
+        inOrder(root.right);
     }
 }
