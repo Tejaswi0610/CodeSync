@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Absolute Difference in BST
+Implement Trie (Prefix Tree)
 
 ---
 
