@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-267-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-269-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-160-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-97-yellow)
+![Medium](https://img.shields.io/badge/Medium-98-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-10-red)
+![Hard](https://img.shields.io/badge/Hard-11-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Serialize and Deserialize Binary Tree
+Replace Words
 
 ---
 
