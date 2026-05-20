@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Design Add and Search Words Data Structure
+Word Search
 
 ---
 
