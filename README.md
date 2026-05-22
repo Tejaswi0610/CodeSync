@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Word Search
+Find Center of Star Graph
 
 ---
 
