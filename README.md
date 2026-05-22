@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find the Town Judge
+Max Area of Island
 
 ---
 
