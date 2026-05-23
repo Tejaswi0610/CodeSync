@@ -15,9 +15,9 @@ public class Codec {
         dfs(root,result);
         return result.toString();
     }
-    pubilc void dfs(TreeNode root,StringBuilder result){
+    public void dfs(TreeNode root,StringBuilder result){
         if(root==null){
-            result.append("null");
+            result.append("null,");
             return;
         }
         result.append(root.val);
