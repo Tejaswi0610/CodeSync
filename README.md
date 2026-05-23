@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Check if Array is Good
+Check if Array Is Sorted and Rotated
 
 ---
 
