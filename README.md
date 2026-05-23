@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Max Area of Island
+Check if Array is Good
 
 ---
 
