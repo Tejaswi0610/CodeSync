@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Remove Duplicates from Sorted Array
+Minimum Swaps to Move Zeros to End
 
 ---
 
