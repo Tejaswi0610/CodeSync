@@ -7,7 +7,7 @@ class Solution {
                 total++;
         }
         int ans=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-total;i++){
             if(nums[i]==0){
                 ans++;
             }
