@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Swaps to Move Zeros to End
+Move Zeroes
 
 ---
 
