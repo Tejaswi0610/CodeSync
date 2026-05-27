@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-271-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-272-blue)
 
-![Easy](https://img.shields.io/badge/Easy-161-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-162-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-99-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Plus One
+Sqrt(x)
 
 ---
 
