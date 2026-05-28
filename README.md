@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Prime Pairs With Target Sum
+Binary Tree Level Order Traversal
 
 ---
 
