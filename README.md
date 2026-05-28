@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Split Array Largest Sum
+Prime Pairs With Target Sum
 
 ---
 
