@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Sqrt(x)
+Split Array Largest Sum
 
 ---
 
