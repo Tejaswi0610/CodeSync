@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Binary Tree Level Order Traversal
+Diameter of Binary Tree
 
 ---
 
