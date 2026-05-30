@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Diameter of Binary Tree
+Intersection of Two Arrays
 
 ---
 
