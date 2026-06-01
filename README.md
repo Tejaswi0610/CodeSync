@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Intersection of Two Arrays
+Search a 2D Matrix II
 
 ---
 
