@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Search a 2D Matrix II
+Rotate Array
 
 ---
 
