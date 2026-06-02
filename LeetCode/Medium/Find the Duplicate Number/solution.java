@@ -6,6 +6,6 @@ class Solution {
                 ans=nums[i];
             }
         }
-        return nums[i];
+        return ans;
     }
 }
