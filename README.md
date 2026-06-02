@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Missing Number
+Find the Duplicate Number
 
 ---
 
