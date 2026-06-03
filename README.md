@@ -20,21 +20,21 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find the Duplicate Number
+Range Sum Query - Immutable
 
 ---
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-undefined-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
 
 ![School](https://img.shields.io/badge/School-0-lightblue)
 
-![Basic](https://img.shields.io/badge/Basic-18-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-0-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-40-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-11-yellow)
+![Medium](https://img.shields.io/badge/Medium-0-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
@@ -42,7 +42,7 @@ Find the Duplicate Number
 
 ## 🔥 Latest GFG Problem
 
-Implement Lower Bound | Practice | GeeksforGeeks
+None
 
 ---
 
