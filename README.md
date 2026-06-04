@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Range Sum Query - Immutable
+Maximum Subarray
 
 ---
 
