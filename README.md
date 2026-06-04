@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Maximum Subarray
+Maximum Product Subarray
 
 ---
 
