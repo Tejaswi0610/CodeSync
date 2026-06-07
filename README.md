@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Binary Tree Maximum Path Sum
+Binary Tree Preorder Traversal
 
 ---
 
