@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Maximum Product Subarray
+Binary Tree Maximum Path Sum
 
 ---
 
