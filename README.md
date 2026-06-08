@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Single Element in a Sorted Array
+Jump Game
 
 ---
 
