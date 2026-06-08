@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Binary Tree Preorder Traversal
+Sort Colors
 
 ---
 
