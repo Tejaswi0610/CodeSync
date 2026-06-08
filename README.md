@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Sort Colors
+Single Element in a Sorted Array
 
 ---
 
