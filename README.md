@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Jump Game
+Search in Rotated Sorted Array
 
 ---
 
