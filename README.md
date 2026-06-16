@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Concatenate Non-Zero Digits and Multiply by Sum I
+Maximize Expression of Three Elements
 
 ---
 
