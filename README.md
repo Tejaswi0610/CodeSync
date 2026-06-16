@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Maximize Expression of Three Elements
+Check if Any Element Has Prime Frequency
 
 ---
 
