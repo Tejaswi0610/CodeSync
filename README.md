@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Search in Rotated Sorted Array
+Concatenate Non-Zero Digits and Multiply by Sum I
 
 ---
 
