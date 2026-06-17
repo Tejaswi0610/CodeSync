@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Transform Array by Parity
+Gas Station
 
 ---
 
