@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Gas Station
+Check if Matrix Is X-Matrix
 
 ---
 
