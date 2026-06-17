@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Check if Any Element Has Prime Frequency
+Transform Array by Parity
 
 ---
 
