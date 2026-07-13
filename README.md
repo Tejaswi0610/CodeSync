@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Toeplitz Matrix
+Defanging an IP Address
 
 ---
 
