@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Check if Matrix Is X-Matrix
+Count Negative Numbers in a Sorted Matrix
 
 ---
 
