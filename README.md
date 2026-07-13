@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Count Negative Numbers in a Sorted Matrix
+Toeplitz Matrix
 
 ---
 
