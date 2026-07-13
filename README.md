@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Defanging an IP Address
+Matchsticks to Square
 
 ---
 
