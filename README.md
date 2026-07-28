@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Robot Return to Origin
+Find the Index of the First Occurrence in a String
 
 ---
 
