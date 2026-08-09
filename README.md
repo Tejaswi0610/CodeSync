@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Day of the Year
+Maximum Subarray
 
 ---
 
