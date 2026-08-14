@@ -19,7 +19,7 @@ class Solution {
             return 0;
         }
         int sum=0;
-        if(root.left!=null && root.left.right==null){
+        if(root.left!=null && root.left.left==null &&root.left.right==null){
             sum+=root.left.val;
         }
         sum+=sumOfLeftLeaves(root.left);
