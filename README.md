@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-274-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-276-blue)
 
-![Easy](https://img.shields.io/badge/Easy-162-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-164-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-101-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Maximum Subarray
+Combine Two Tables
 
 ---
 
