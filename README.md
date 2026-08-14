@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Employees Earning More Than Their Managers
+Sum of Left Leaves
 
 ---
 
