@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-276-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-277-blue)
 
-![Easy](https://img.shields.io/badge/Easy-164-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-165-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-101-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Combine Two Tables
+Employees Earning More Than Their Managers
 
 ---
 
