@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-279-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-280-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-166-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-102-yellow)
+![Medium](https://img.shields.io/badge/Medium-103-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-11-red)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Integer to Roman
+Second Highest Salary
 
 ---
 
