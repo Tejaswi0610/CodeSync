@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-277-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-279-blue)
 
-![Easy](https://img.shields.io/badge/Easy-165-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-166-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-101-yellow)
+![Medium](https://img.shields.io/badge/Medium-102-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-11-red)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Sum of Left Leaves
+Integer to Roman
 
 ---
 
