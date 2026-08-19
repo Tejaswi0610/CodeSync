@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-282-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-283-blue)
 
-![Easy](https://img.shields.io/badge/Easy-168-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-169-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-103-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Relative Ranks
+Split a String in Balanced Strings
 
 ---
 
