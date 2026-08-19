@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Split a String in Balanced Strings
+Smallest Range I
 
 ---
 
