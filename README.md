@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-284-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-285-blue)
 
-![Easy](https://img.shields.io/badge/Easy-170-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-171-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-103-yellow)
 
