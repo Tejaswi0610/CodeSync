@@ -12,7 +12,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/big-countries/
+https://leetcode.com/problems/big-countries
 
 ---
 
