@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-283-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-284-blue)
 
-![Easy](https://img.shields.io/badge/Easy-169-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-170-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-103-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Smallest Range I
+Recyclable and Low Fat Products
 
 ---
 
