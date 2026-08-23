@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Customers Who Never Order
+Classes With at Least 5 Students
 
 ---
 
