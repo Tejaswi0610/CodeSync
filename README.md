@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-286-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-288-blue)
 
-![Easy](https://img.shields.io/badge/Easy-172-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-173-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-103-yellow)
+![Medium](https://img.shields.io/badge/Medium-104-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-11-red)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Article Views I
+Duplicate Emails
 
 ---
 
