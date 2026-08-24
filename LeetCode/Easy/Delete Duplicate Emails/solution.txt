@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-DELETE email from Person where id NOT IN (
+DELETE  from Person where id NOT IN (
     select  min_id from (
         select min(id) AS min_id 
         from person
