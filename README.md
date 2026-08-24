@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Classes With at Least 5 Students
+Delete Duplicate Emails
 
 ---
 
