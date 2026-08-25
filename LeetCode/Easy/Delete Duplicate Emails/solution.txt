@@ -1,1 +1,1 @@
-DELETE email from Person where id=3;
+DELETE p.email from Person where id=3;
