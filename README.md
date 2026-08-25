@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Game Play Analysis I
+Department Top Three Salaries
 
 ---
 
