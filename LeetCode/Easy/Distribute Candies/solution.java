@@ -1,11 +1,12 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-       int ans=0;
-       for(int i=0;i<candyType.length;i++){
-        if(candyType.length>0){
-            ans=candyType.length/2;
-        }
-       }
-       return ans;
+        Set<Integer> set=new HashSet<>();
+        for(var i:candyType)
+            set.add(i);
+        var n=candyType.length/2;
+        if(set.size()>=n)
+            return n;
+        else
+            return set.size();
     }
 }
