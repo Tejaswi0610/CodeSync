@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Delete Duplicate Emails
+Rising Temperature
 
 ---
 
