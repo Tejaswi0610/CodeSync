@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-292-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-293-blue)
 
-![Easy](https://img.shields.io/badge/Easy-177-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-178-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-104-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Rising Temperature
+Array Partition
 
 ---
 
