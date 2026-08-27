@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-295-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-296-blue)
 
-![Easy](https://img.shields.io/badge/Easy-180-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-181-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-104-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Distribute Candies
+Final Value of Variable After Performing Operations
 
 ---
 
