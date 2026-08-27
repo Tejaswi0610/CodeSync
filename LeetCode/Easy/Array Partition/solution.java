@@ -4,7 +4,7 @@ class Solution {
         int n=nums.length;
         int ans=0;
         for(int i=0;i<n;i+=2);
-        ans+=nums[i];
-    return ans;
+            ans+=nums[i];
+        return ans;
     }
 }
