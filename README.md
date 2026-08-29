@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find Users with High Token Usage
+Rank Scores
 
 ---
 
