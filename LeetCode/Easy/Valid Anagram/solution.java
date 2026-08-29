@@ -5,8 +5,8 @@ class Solution {
         }
         char[] a=s.toCharArray();
         char[] b=s.toCharArray();
-        Arrys.sort(a);
+        Arrays.sort(a);
         Arrays.sort(b);
-        return Arrays.equal(a,b);
+        return Arrays.equals(a,b);
     }
 }
