@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-296-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-297-blue)
 
-![Easy](https://img.shields.io/badge/Easy-181-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-182-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-104-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Final Value of Variable After Performing Operations
+Find Users with High Token Usage
 
 ---
 
