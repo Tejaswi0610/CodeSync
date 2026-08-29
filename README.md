@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Rank Scores
+Different Ways to Add Parentheses
 
 ---
 
