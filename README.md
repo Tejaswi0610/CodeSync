@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Different Ways to Add Parentheses
+Valid Anagram
 
 ---
 
