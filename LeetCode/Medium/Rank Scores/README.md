@@ -12,7 +12,7 @@
 
 ## Problem Link
 
-https://leetcode.com/problems/rank-scores
+https://leetcode.com/problems/rank-scores/
 
 ---
 
