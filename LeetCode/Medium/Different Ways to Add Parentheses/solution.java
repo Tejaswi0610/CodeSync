@@ -1,5 +1,5 @@
 class Solution {
-    public List<Integer> diffWaysToCompute(String expression) {
+    public List<Integer> diffWaysToCompute(String s) {
         List<Integer> ans=new ArrayList<>();
         for(int i=0;i<s.length();i++){
             char c=s.charAt(i);
