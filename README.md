@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Valid Anagram
+Department Top Three Salaries
 
 ---
 
