@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Department Top Three Salaries
+Remove All Adjacent Duplicates in String II
 
 ---
 
