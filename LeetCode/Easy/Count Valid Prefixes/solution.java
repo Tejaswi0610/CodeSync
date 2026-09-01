@@ -3,7 +3,7 @@ class Solution {
         int res=0;
         int zeros=0;
         int ones=0;
-        for(char ch:s.tocharArray()){
+        for(char ch:s.toCharArray()){
             if(ch=='0'){
                 zeros++;
             }
