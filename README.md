@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Remove All Adjacent Duplicates in String II
+Count Valid Prefixes
 
 ---
 
