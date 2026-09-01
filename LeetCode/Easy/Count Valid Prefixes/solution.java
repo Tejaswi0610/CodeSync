@@ -7,10 +7,13 @@ class Solution {
             if(ch=='0'){
                 zeros++;
             }
-            else(ch=='1'){
+            else{
                 ones++;
+            }        
+            if(zeros==ones || zeros=ones+1 || ones=zeros+1){
+                res++;
             }
-            
         }
+        return res;
     }
 }
