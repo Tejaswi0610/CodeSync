@@ -10,7 +10,7 @@ class Solution {
             else{
                 ones++;
             }        
-            if(zeros==ones || zeros=ones+1 || ones=zeros+1){
+            if(zeros==ones || zeros==ones+1 || ones==zeros+1){
                 res++;
             }
         }
