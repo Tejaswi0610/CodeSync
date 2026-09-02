@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Zigzag Conversion
+Longest Palindromic Substring
 
 ---
 
