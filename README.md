@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-301-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-302-blue)
 
-![Easy](https://img.shields.io/badge/Easy-184-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-185-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-106-yellow)
 
@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Longest Palindromic Substring
+Rearrange String to Avoid Character Pair
 
 ---
 
