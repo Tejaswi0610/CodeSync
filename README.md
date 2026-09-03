@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Even Odd Tree
+Maximum Level Sum of a Binary Tree
 
 ---
 
