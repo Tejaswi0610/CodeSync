@@ -20,7 +20,7 @@ Bethoju_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Rearrange String to Avoid Character Pair
+Even Odd Tree
 
 ---
 
